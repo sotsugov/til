@@ -1,4 +1,4 @@
 # til
 
 
-* **[hnkw](https://github.com/sotsugov/til/tree/master/hnkw)** script to get the links from front page that contain certain keywords
+A collection of write-ups, scripts or small things I learn day to day across a variety of languages and technologies.

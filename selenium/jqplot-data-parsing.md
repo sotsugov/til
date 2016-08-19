@@ -1,4 +1,4 @@
-# How to get data from a jqplot line chart selenium webdriver
+# How to get data from a jqplot line chart selenium webdriver python
 
 1. Find the chart element
 2. Get the graph data by executing the javascript code on the page

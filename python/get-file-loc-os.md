@@ -1,5 +1,4 @@
-
-Get current file location OS-agnostic
+# Get current file location OS-agnostic
 
 ```bash
 $ pwd

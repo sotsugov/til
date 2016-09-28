@@ -1,4 +1,25 @@
+#Table of contents
+<!-- MarkdownTOC depth=3 autoanchor=true autolink=true bracket=round -->
+
+- [Conferences](#conferences)
+    - [Annual Testing Professionals](#annual-testing-professionals)
+    - [Python and Data](#python-and-data)
+    - [Global Developers Conferences](#global-developers-conferences)
+- [Reading Material](#reading-material)
+    - [Python and Data Books](#python-and-data-books)
+    - [Software Testing Books](#software-testing-books)
+    - [Software Testing Theory](#software-testing-theory)
+- [Standards in software testing](#standards-in-software-testing)
+- [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
+- [Style and Guidelines](#style-and-guidelines)
+- [Great Open-Source Projects](#great-open-source-projects)
+
+<!-- /MarkdownTOC -->
+
+
+<a name="conferences"></a>
 ## Conferences
+<a name="annual-testing-professionals"></a>
 ### Annual Testing Professionals
 * [Selenium Conference (English) (Europe)](http://www.seleniumconf.com)
 * [SeleniumConf UK (English) (UK)](http://www.seleniumconf.co.uk)
@@ -12,6 +33,7 @@
 * [STAR West (English) (US)](http://starwest.techwell.com/)
 * [O'Reilly Velocity (English) (Worldwide)](http://conferences.oreilly.com/velocity)
 
+<a name="python-and-data"></a>
 ### Python and Data
 * [PyData (English)](http://pydata.org/events/)
 * [PyCon (Global)](http://www.pycon.org/)
@@ -19,12 +41,15 @@
 * [PyCon SE (English)](http://www.pycon.se/)
 * [PyData Events](http://pydata.org/events.html)
 
+<a name="global-developers-conferences"></a>
 ### Global Developers Conferences
 * [Microsoft Build](http://www.buildwindows.com/)
 * [Google I/O](https://www.google.com/events/io)
 * [Apple WWDC](https://developer.apple.com/wwdc/)
 
+<a name="reading-material"></a>
 ## Reading Material
+<a name="python-and-data-books"></a>
 ### Python and Data Books
 * [Automate the Boring Stuff with Python by Albert Sweigart](https://automatetheboringstuff.com/)
 * [Hacking Secret Ciphers with Python by Alber Sweigart](https://inventwithpython.com/hacking/)
@@ -35,11 +60,13 @@
 * [Python Programming for Hackers and Pentesters by Justin Seitz](https://www.nostarch.com/blackhatpython)
 * [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers by TJ O'Connor](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
+<a name="software-testing-books"></a>
 ### Software Testing Books
 * [How Google Tests Software by James A. Whittaker, Jason Arbon, and Jeff Carollo](https://books.google.co.uk/books?id=vHlTOVTKHeUC&redir_esc=y)
 * [Dear Evil Tester: Provocative Advice That Could Change Your Approach To Testing Forever, Richardson, Mr Alan J](https://www.amazon.com/Dear-Evil-Tester-Provocative-Approach/dp/0956733271)
 * [HandsOn Mobile App Testing: A Guide for Mobile Testers and Anyone Involved in the Mobile App Business, Knott, Daniel](http://adventuresinqa.com/hands-on-mobile-app-testing/)
 
+<a name="software-testing-theory"></a>
 ### Software Testing Theory
 * [Measure Software Quality using Application Security by Dinis Cruz](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content)
 * [The "A" Word by Alan Page](https://leanpub.com/TheAWord)
@@ -71,19 +98,23 @@
 * [Test-Driven Development - Extensive Tutorial Grzegorz Gałęzowski](https://github.com/grzesiek-galezowski/tdd-ebook)
 * [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 
+<a name="standards-in-software-testing"></a>
 ## Standards in software testing
 * [Testing Standards Working Party](http://www.testingstandards.co.uk/)
 * [The International Software Testing Standard](http://softwaretestingstandard.org/)
 * [Standard for Software Component Testing (PDF)](http://www.testingstandards.co.uk/Component%20Testing.pdf)
 
+<a name="testing-of-free-and-opensource-software"></a>
 ## Testing of Free and OpenSource Software
 * [Quality Improvement in Volunteer Free and Open Source Software Project (PDF)](http://www.cyrius.com/publications/michlmayr-phd.pdf)
 * [Testing and quality management of free and open source software by Sergey Bronnikov](https://github.com/ligurio/tos-book)
 
+<a name="style-and-guidelines"></a>
 ## Style and Guidelines
 * [Code Style — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
+<a name="great-open-source-projects"></a>
 ## Great Open-Source Projects
 * [Github Trending](https://github.com/trending?l=python)
 * [Awesome Python](http://awesome-python.com/)

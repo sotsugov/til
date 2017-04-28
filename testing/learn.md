@@ -4,7 +4,6 @@
 - [Conferences](#conferences)
     - [Annual Testing Professionals](#annual-testing-professionals)
     - [Python and Data](#python-and-data)
-    - [Global Developers Conferences](#global-developers-conferences)
 - [Reading Material](#reading-material)
     - [Python and Data Books](#python-and-data-books)
     - [Software Testing Books](#software-testing-books)
@@ -40,12 +39,6 @@
 * [PyCon UK (English)](http://www.pyconuk.org/)
 * [PyCon SE (English)](http://www.pycon.se/)
 * [PyData Events](http://pydata.org/events.html)
-
-<a name="global-developers-conferences"></a>
-### Global Developers Conferences
-* [Microsoft Build](http://www.buildwindows.com/)
-* [Google I/O](https://www.google.com/events/io)
-* [Apple WWDC](https://developer.apple.com/wwdc/)
 
 <a name="reading-material"></a>
 ## Reading Material
